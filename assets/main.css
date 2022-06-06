@@ -142,12 +142,13 @@ header {
     background-image: url(./images/Group\ 17512.png);
     background-repeat: no-repeat;
     background-color: transparent;
-    transform: translateY(3px);
+    transform: translateY(-2px);
     width: 18px;
     height: 18px;
     border: none;
     margin-right: 16px;
     cursor: pointer;
+    text-indent: -1000000px;
 }
 
 .header__menu {
